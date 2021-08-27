@@ -10,4 +10,4 @@ Exercise for GUI programming with Python's Tkinter
 ## 파일 설명
   * 1_create-frame : 기본적인 창(프레임)을 생성한다.
   * 2_button : 다양한 형태/색상의 버튼을 생성한다.
-  
+    * btn_image : 버튼을 생성할 때 해당 이미지로 생성할 수 있다.
