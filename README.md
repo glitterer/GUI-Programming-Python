@@ -13,4 +13,6 @@ Exercise for GUI programming with Python's Tkinter
     * btn_image : 버튼을 생성할 때 해당 이미지로 생성할 수 있다.
   * 3_label : 레이블 (이미지나 텍스트)를 표시하는 기능 + ```.config```를 통해서 해당 레이블을 변경할 수 있다.
     * btn_image2 : btn_image를 레이블로 설정하고, 해당 이미지 변경시킬 수 있다.
+  * 3_label_ttk : 원래의 파일에 ttk 모듈을 ```import```시켜서 조금 변형시켜봤다. 또한, ```compound```로 이미지의 위치조정과 ```image=''```로 이미지 삭제도 시도해보았다. 
+                  추가로 label에 대해서 width조정, label 배열 정렬 타입 설정, 글씨체 설정, 라벨과 배경 색 설정도 변경해보았다.
   * 4_text_empty : txt와 entry 상자를 만들어서 글자를 입력 받고, delete를 통해서 지울 수도 있는 기능을 만든다.
