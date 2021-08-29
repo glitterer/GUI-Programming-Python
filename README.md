@@ -15,3 +15,6 @@ Exercise for GUI programming with Python's Tkinter
     * **btn_image2** : btn_image를 레이블로 설정하고, 해당 이미지 변경시킬 수 있다.
   * **3_label_ttk** : 원래의 파일에 ttk 모듈을 ```import```시켜서 조금 변형시켜봤다.  ```compound```, ```image=''```, label에 대해서 width조정, label 배열 정렬 타입 설정, 글씨체 설정, 라벨과 배경색 설정도 가능하다. (참고: [네이버 블로그 gaussian37](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=infoefficien&logNo=221057243324))
   * **4_text_empty** : txt와 entry 상자를 만들어서 글자를 입력 받고, delete를 통해서 지울 수도 있는 기능을 만든다.
+  * **5_listbox** : listbox를 생성한다. 
+  * **6_checkbox** : checkbox를 생성한다.
+  * **6_checkbox_응용** : checkbox 원본을 살짝 변형시켜보았다.
