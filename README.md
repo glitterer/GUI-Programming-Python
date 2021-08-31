@@ -18,3 +18,12 @@ Exercise for GUI programming with Python's Tkinter
   * **5_listbox** : listbox를 생성한다. 
   * **6_checkbox** : checkbox를 생성한다.
   * **6_checkbox_응용** : checkbox 원본을 살짝 변형시켜보았다.
+  * **7_radiobutton** : 여러 버튼 중에서 한 개씩 선택하는 radiobutton을 생성 / 서로 다른 구릅의 라디오 버튼을 생성
+  * **8_combobox_1** : combobox 생성 (combobox 내에 문자 입력 가능하다)
+  * **8_combobox_2** : combobox 생성 (combobox 내에 문자 입력 불가능 처리)
+  * **9_progressbar_1** : progress bar(점점 차오르는 막대)를 생성 ("중지" 버튼으로 종료되도록 처리)
+  * **9_progressbar_2** : progress bar는 "시작"버튼으로 시작되고, 퍼센티를 출력
+  * **10_menu** : 메뉴창 생성
+  * **11_msgbox** : 팝업을 뜨는 다양한 메시지 박스 생성
+  * **12_frame** : 프레임 생성
+  * **13_scrollbar** : 스크롤바 생성. ```yscrollcommand=scrollbar.set```과 ```scrollbar.config(command.listbox.yview)``` 둘 다 반드시 있어야 제대로 작동
