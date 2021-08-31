@@ -14,7 +14,7 @@ btn2 = Button(root, text="버튼2")
 #btn2.grid(row=1, column=1)  # 1,0 위치에 배치
 
 #맨 윗줄
-# padx, pady: 중간 글자 기준으로 x / y를 여백으로 가진다/늘린다 
+# padx, pady: 중간 글자 기준으로 x / y를 여백으로 가진다/늘린다
 # width, height : 지정된 크기로 지정한다.
 btn_f16 = Button(root, text = "F16", width=5, height=2)
 btn_f17 = Button(root, text = "F17", width=5, height=2)
@@ -54,10 +54,10 @@ btn_5 = Button(root, text = "5", width=5, height=2)
 btn_6 = Button(root, text = "6", width=5, height=2)
 btn_add = Button(root, text = "+", width=5, height=2)
 
-btn_7.grid(row=3, column=0, sticky = N+E+W+S, padx=3, pady=3)
-btn_8.grid(row=3, column=1, sticky = N+E+W+S, padx=3, pady=3)
-btn_9.grid(row=3, column=2, sticky = N+E+W+S, padx=3, pady=3)
-btn_sub.grid(row=3, column=3, sticky = N+E+W+S, padx=3, pady=3)
+btn_4.grid(row=3, column=0, sticky = N+E+W+S, padx=3, pady=3)
+btn_5.grid(row=3, column=1, sticky = N+E+W+S, padx=3, pady=3)
+btn_6.grid(row=3, column=2, sticky = N+E+W+S, padx=3, pady=3)
+btn_add.grid(row=3, column=3, sticky = N+E+W+S, padx=3, pady=3)
 
 #1 시작 줄
 btn_1 = Button(root, text = "1", width=5, height=2)
