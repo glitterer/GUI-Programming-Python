@@ -27,3 +27,5 @@ Exercise for GUI programming with Python's Tkinter
   * **11_msgbox** : 팝업을 뜨는 다양한 메시지 박스 생성
   * **12_frame** : 프레임 생성
   * **13_scrollbar** : 스크롤바 생성. ```yscrollcommand=scrollbar.set```과 ```scrollbar.config(command.listbox.yview)``` 둘 다 반드시 있어야 제대로 작동
+  * **14_grid_1_calculator** : ```14_grid_keyboard.JPG```의 형태로 생성 - 1 __ 버튼과 그리드를 생성한다.
+  * **14_grid_1_calculator** : ```14_grid_keyboard.JPG```의 형태로 생성 - 2 __ 버튼 크기 일정하게, 그리드 여유 크기 생성, ```sticky```로 행/열로 몇 줄 
